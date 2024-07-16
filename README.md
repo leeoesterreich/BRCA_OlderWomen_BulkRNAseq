@@ -1,6 +1,3 @@
-# BRCA_OlderWomen_BulkRNAseq
-Bulk RNA-seq data analysis to run GSVA and PROGENy
-
 ---
 title: "AgeStudy_Human_BulkRNAseq"
 author: "SanghoonLee"
@@ -8,7 +5,8 @@ format: html
 editor: visual
 ---
 
-# Human bulk RNA-seq data analysis information
+# Human breast cancer bulk RNA-seq data analysis
+Bulk RNA-seq data analysis to run GSVA and PROGENy
 
 ![image](https://github.com/user-attachments/assets/73f104e5-8df6-47b3-b495-f38b427d8809)
 
