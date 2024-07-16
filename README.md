@@ -1,8 +1,8 @@
 ---
-title: "AgeStudy_Human_BulkRNAseq"
+title: "AgeStudy_Human_BRCA_BulkRNAseq"
 author: "SanghoonLee"
-format: html
-editor: visual
+format: qmd
+editor: R
 ---
 
 # Human breast cancer bulk RNA-seq data analysis
