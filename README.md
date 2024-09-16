@@ -15,8 +15,9 @@ Bulk RNA-seq data analysis to run GSVA and PROGENy
 -   GSVA, it calculates gene set or pathway scores on a per-sample basis (Hänzelmann et al. 2013a). GSVA transforms a gene by sample gene expression matrix into a gene set by sample pathway enrichment matrix (Hänzelmann et al. 2013. BMC bioinformatics)
 -   PROGENy, it is resource that leverages a large compendium of publicly available signaling perturbation experiments to yield a common core of pathway responsive genes for human and mouse. These, coupled with any statistical method, can be used to infer pathway activities from bulk or single-cell transcriptomics (Schubert et al. 2018. Nature Communication)
 
-### Necessary input data files. (See Preparation2 below)
 
+### Necessary input data files. (See Preparation2 below)
+- #### Raw data of human breast cancer bulk RNA-seq are available at GSE276755
 -   bulk RNA-seq expression count data
 -   bulk RNA-seq expression TPMLog2 data
 -   bulk RNA-seq sample annotation data
